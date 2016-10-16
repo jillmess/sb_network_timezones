@@ -1,10 +1,10 @@
-[v] (AU):Australia/Sydney
-[v] HITS (AU):Australia/Sydney
+[v] (AU):Australia/Brisbane
+[v] HITS (AU):Australia/Brisbane
 ¡Sorpresa! (US):US/Eastern
 +Globosat:America/Sao_Paulo
 1+1:Europe/Kiev
-111 Greats (AU):Australia/Sydney
-13TH STREET (AU):Australia/Sydney
+111 Greats (AU):Australia/Brisbane
+13TH STREET (AU):Australia/Brisbane
 13th Street (NL):Europe/Amsterdam
 2 (NZ):Pacific/Auckland
 2×2:Europe/Kaliningrad
@@ -12,7 +12,7 @@
 24:Europe/Istanbul
 2BE:Europe/Brussels
 3+:Europe/Zurich
-31 DIGITAL (AU):Australia/Sydney
+31 DIGITAL (AU):Australia/Brisbane
 360:Europe/Istanbul
 3ABN (US):US/Eastern
 3ABN Latino (US):US/Eastern
@@ -21,7 +21,7 @@
 3e (IE):Europe/Dublin
 3net (US):US/Eastern
 3sat:Europe/Berlin
-44 Adelaide (AU):Australia/Sydney
+44 Adelaide (AU):Australia/Brisbane
 47 (UK):Europe/London
 4Music (UK):Europe/London
 4SD (US):US/Eastern
@@ -29,14 +29,14 @@
 5* (UK):Europe/London
 5USA (UK):Europe/London
 6'eren:Europe/Copenhagen
-7mate (AU):Australia/Sydney
+7mate (AU):Australia/Brisbane
 7NBC (US):US/Eastern
-7TWO (AU):Australia/Sydney
+7TWO (AU):Australia/Brisbane
 8TV (MY):Asia/Kuala_Lumpur
 9Live (DE):Europe/Berlin
 9XM (UK):Europe/London
 A Haber:Europe/Istanbul
-A&E (AU):Australia/Sydney
+A&E (AU):Australia/Brisbane
 A&E:US/Eastern
 AAG (UK):Europe/London
 AAG TV:Asia/Karachi
@@ -44,44 +44,44 @@ Aaj Tak (UK):Europe/London
 Aaj TV:Asia/Karachi
 AANtv (US):US/Eastern
 Aastha TV (UK):Europe/London
-ABC (AU):Australia/Sydney
-ABC (Canberra) (AU):Australia/Sydney
+ABC (AU):Australia/Brisbane
+ABC (Canberra) (AU):Australia/Brisbane
 ABC (JA):Asia/Tokyo
 ABC (PH):Asia/Manila
 ABC (UK):Europe/London
 ABC (US):US/Eastern
 ABC Family:US/Eastern
-ABC News 24:Australia/Sydney
+ABC News 24:Australia/Brisbane
 abc spark (CA):Canada/Eastern
 ABC:US/Eastern
-ABC1:Australia/Sydney
-ABC2:Australia/Sydney
-ABC3:Australia/Sydney
-ABC4Kids:Australia/Sydney
+ABC1:Australia/Brisbane
+ABC2:Australia/Brisbane
+ABC3:Australia/Brisbane
+ABC4Kids:Australia/Brisbane
 abc7 (US):US/Eastern
 ABC7 Chicago (US):US/Eastern
-ABD (AU):Australia/Sydney
-ABN (AU):Australia/Sydney
+ABD (AU):Australia/Brisbane
+ABN (AU):Australia/Brisbane
 ABN (US):US/Eastern
 abo (US):US/Eastern
 ABP New (UK):Europe/London
-ABQ (AU):Australia/Sydney
-ABS (AU):Australia/Sydney
+ABQ (AU):Australia/Brisbane
+ABS (AU):Australia/Brisbane
 ABS-CBN Broadcasting Company:Asia/Manila
-ABT (AU):Australia/Sydney
+ABT (AU):Australia/Brisbane
 Abu Dhabi TV (UK):Europe/London
 Abu Dhabi TV:Asia/Dubai
-ABV (AU):Australia/Sydney
-ABW (AU):Australia/Sydney
+ABV (AU):Australia/Brisbane
+ABW (AU):Australia/brisbane
 Acasă (RO):Europe/Bucharest
 ACBN (US):US/Eastern
 AccuWeather Channel (US):US/Eastern
 ACN (US):US/Eastern
-ACTION MOVIES (AU):Australia/Sydney
+ACTION MOVIES (AU):Australia/Brisbane
 Action:Canada/Eastern
 Active Channel (UK):Europe/London
 addikTV:Canada/Eastern
-ADS (AU):Australia/Sydney
+ADS (AU):Australia/Brisbane
 Adult Channel:Europe/London
 Adult Swim:US/Eastern
 Adventist TV (US):US/Eastern
@@ -117,11 +117,11 @@ America One Television Network:US/Eastern
 AMERICAN HEROES CHANNEL (US):US/Eastern
 American Liberty (US):US/Eastern
 AMGTV (US):US/Eastern
-AMV (AU):Australia/Sydney
+AMV (AU):Australia/Brisbane
 Angel One (US):US/Eastern
 Angel Two (US):US/Eastern
 Anhui TV:Asia/Shanghai
-Animal Planet (AU):Australia/Sydney
+Animal Planet (AU):Australia/Brisbane
 ANIMAL PLANET (CA):Canada/Eastern
 ANIMAL PLANET (UK):Europe/London
 Animal Planet:US/Eastern
@@ -135,12 +135,12 @@ ANTENNA TV (US):US/Eastern
 Antenne 2:Europe/Paris
 AOL (US):US/Eastern
 AOL:US/Eastern
-a-pac (AU):Australia/Sydney
+a-pac (AU):Australia/Brisbane
 Apostolic Oneness Network (US):US/Eastern
 aptn (CA):Canada/Eastern
 APTN:Canada/Eastern
 Arabic Channel (US):US/Eastern
-Arena:Australia/Sydney
+Arena:Australia/Brisbane
 Argos TV (UK):Europe/London
 ARISE News (UK):Europe/London
 Arizona Capitol Television (US):US/Eastern
@@ -160,24 +160,24 @@ ARY Zouq:Asia/Karachi
 ASEN (US):US/Eastern
 ASEN2 (US):US/Eastern
 ASPiRE (US):US/Eastern
-aspire TV (AU):Australia/Sydney
+aspire TV (AU):Australia/Brisbane
 Associated Broadcasting Company (PH):Asia/Manila
 At the Races (UK):Europe/London
-ATN (AU):Australia/Sydney
+ATN (AU):Australia/Brisbane
 ATN Aastha Channel:Asia/Kolkata
 ATN Bangla (UK):Europe/London
 ATN CRICKET PLUS (CA):Canada/Eastern
 ATN Service 1 (US):US/Eastern
 ATN Service 2 (US):US/Eastern
 ATN SPORTS (CA):Canada/Eastern
-ATV (AU):Australia/Sydney
+ATV (AU):Australia/Brisbane
 ATV (DE):Europe/Berlin
 ATV Türkiye:Europe/Istanbul
 ATV:Europe/Vienna
 AT-X:Asia/Tokyo
 Audience Network:US/Eastern
-aurora (AU):Australia/Sydney
-Australian Christian Channel:Australia/Sydney
+aurora (AU):Australia/Brisbane
+Australian Christian Channel:Australia/Brisbane
 aux (CA):Canada/Eastern
 AVRO:Europe/Amsterdam
 AWE (US):US/Eastern
@@ -213,7 +213,7 @@ BBC Four:Europe/London
 BBC HD:Europe/London
 BBC iPlayer:Europe/London
 BBC Kids:Canada/Eastern
-BBC Knowledge (AU):Australia/Sydney
+BBC Knowledge (AU):Australia/Brisbane
 BBC News:Europe/London
 BBC One East Midlands:Europe/London
 BBC One East:Europe/London
@@ -238,9 +238,9 @@ BBC TWO Northern Ireland:Europe/London
 BBC TWO Scotland:Europe/London
 BBC TWO Wales:Europe/London
 BBC Two:Europe/London
-BBC UKTV (AU):Australia/Sydney
+BBC UKTV (AU):Australia/Brisbane
 BBC World News:Europe/London
-BCV (AU):Australia/Sydney
+BCV (AU):Australia/Brisbane
 beats per minute television (CA):Canada/Eastern
 Bebo.com (US):US/Eastern
 beIN SPORT (US):US/Eastern
@@ -255,12 +255,12 @@ BHSN (US):US/Eastern
 Bid (UK):Europe/London
 Bid Plus (UK):Europe/London
 Big Ten Network (US):US/Eastern
-bio. (AU):Australia/Sydney
+bio. (AU):Australia/Brisbane
 BIOGRAPHY CHANNEL (CA):Canada/Eastern
 Biography Channel:US/Eastern
 biTe (CA):Canada/Eastern
 BiZ TELEVISION (US):US/Eastern
-BKN (AU):Australia/Sydney
+BKN (AU):Australia/Brisbane
 blip (US):US/Eastern
 Blip:US/Eastern
 BLISS (UK):Europe/London
@@ -271,7 +271,7 @@ BNN (NL):Europe/Amsterdam
 BNN:Canada/Eastern
 BNT1:Europe/Sofia
 Book TELEVISION (CA):Canada/Eastern
-Boomerang (AU):Australia/Sydney
+Boomerang (AU):Australia/Brisbane
 Boomerang (DE):Europe/Berlin
 Boomerang (UK):Europe/London
 Boomerang:US/Eastern
@@ -295,14 +295,14 @@ BS11:Asia/Tokyo
 BS-i (JP):Asia/Tokyo
 BT Sport 1 (UK):Europe/London
 BT Sport 2 (UK):Europe/London
-BTQ (AU):Australia/Sydney
+BTQ (AU):Australia/Brisbane
 BTV:Asia/Shanghai
 bTV:Europe/Sofia
 Bubble Hits:Europe/Dublin
 Business News Network (CA):Canada/Eastern
 BuzMuzik (UK):Europe/London
 BYU Television:US/Eastern
-C31:Australia/Sydney
+C31:Australia/Brisbane
 Cable Public Affairs Channel (CA):Canada/Eastern
 CablePulse24 (CA):Canada/Eastern
 Cambridge Presents (UK):Europe/London
@@ -331,10 +331,10 @@ Capital TV (UK):Europe/London
 Caracol TV:America/Bogota
 Carlton Television:Europe/London
 CARS.TV (US):US/Eastern
-CARTOON NETWORK (AU):Australia/Sydney
+CARTOON NETWORK (AU):Australia/Brisbane
 Cartoon Network (CA):Canada/Eastern
 CARTOON NETWORK (UK):Europe/London
-Cartoon Network Australia:Australia/Sydney
+Cartoon Network Australia:Australia/Brisbane
 CARTOON NETWORK TOO (UK):Europe/London
 Cartoon Network:US/Eastern
 cartoonito (UK):Europe/London
@@ -348,7 +348,7 @@ CBC:Canada/Eastern
 CBCnews network (CA):Canada/Eastern
 CBeebies (US):US/Eastern
 CBeebies:Europe/London
-CBN (AU):Australia/Sydney
+CBN (AU):Australia/Brisbane
 CBS 2 HD (US):US/Eastern
 CBS 2 LOS ANGELES (US):US/Eastern
 CBS 2 NEW YORK (US):US/Eastern
@@ -407,7 +407,7 @@ Christian (UK):Europe/London
 Christian Television Network (US):US/Eastern
 Chukyo TV (JP):Asia/Tokyo
 Church Channel (US):US/Eastern
-CI:Australia/Sydney
+CI:Australia/Brisbane
 Cielo:Europe/Rome
 Cine 5:Europe/Istanbul
 Cinelatino (US):US/Eastern
@@ -423,12 +423,12 @@ cloo (US):US/Eastern
 CLTV (US):US/Eastern
 Club RTL:Europe/Brussels
 Clubland (UK):Europe/London
-CMC (AU):Australia/Sydney
+CMC (AU):Australia/Brisbane
 CMT (CA):Canada/Eastern
 CMT:US/Eastern
 CN100 (US):US/Eastern
 CN8:US/Eastern
-CNBC (AU):Australia/Sydney
+CNBC (AU):Australia/Brisbane
 CNBC TV18:Asia/Kolkata
 CNBC UK:Europe/London
 CNBC:US/Eastern
@@ -465,9 +465,9 @@ COMEDY CENTRAL (UK):Europe/London
 Comedy Central (US):US/Eastern
 COMEDY CENTRAL EXTRA (UK):Europe/London
 Comedy Central:US/Eastern
-comedy channel (AU):Australia/Sydney
+comedy channel (AU):Australia/Brisbane
 Comedy Channel:US/Eastern
-Comedy MOVIES (AU):Australia/Sydney
+Comedy MOVIES (AU):Australia/Brisbane
 Comedy.tv (US):US/Eastern
 comedy:Canada/Eastern
 Community Channel:Europe/London
@@ -487,7 +487,7 @@ Crackle:US/Eastern
 create (US):US/Eastern
 Create and Craft (UK):Europe/London
 Credo TV (US):US/Eastern
-crime & investigation network (AU):Australia/Sydney
+crime & investigation network (AU):Australia/Brisbane
 crime & investigation network (UK):Europe/London
 Crime & Investigation Network:US/Eastern
 C-Span:US/Eastern
@@ -499,7 +499,7 @@ CST (US):US/Eastern
 CSTV:Asia/Seoul
 ČT1 (CZ):Europe/Prague
 ČT2 (CZ):Europe/Prague
-CTC (AU):Australia/Sydney
+CTC (AU):Australia/Brisbane
 CTC (RU):Europe/Kaliningrad
 CTC:Asia/Tokyo
 CTi TV:Asia/Taipei
@@ -541,8 +541,8 @@ Deutsche Welle (US):US/Eastern
 Deutsche Welle TV:Europe/Berlin
 DFamilia (US):US/Eastern
 Discovery Channel (Asia):Asia/Singapore
-Discovery CHANNEL (AU):Australia/Sydney
-Discovery Channel (Australia):Australia/Sydney
+Discovery CHANNEL (AU):Australia/Brisbane
+Discovery Channel (Australia):Australia/Brisbane
 Discovery Channel (CA):Canada/Eastern
 Discovery CHANNEL (UK):Europe/London
 Discovery en Español (US):US/Eastern
@@ -551,30 +551,30 @@ Discovery Family:US/Eastern
 Discovery fit&health (US):US/Eastern
 Discovery HD World:Asia/Singapore
 Discovery HISTORY (UK):Europe/London
-Discovery home & health (AU):Australia/Sydney
+Discovery home & health (AU):Australia/Brisbane
 DISCOVERY home&health (UK):Europe/London
 Discovery Kids:US/Eastern
 Discovery Life:US/Eastern
 Discovery MAX:Europe/Madrid
-Discovery Science (AU):Australia/Sydney
+Discovery Science (AU):Australia/Brisbane
 DISCOVERY SCIENCE (CA):Canada/Eastern
 Discovery Science (UK):Europe/London
 Discovery Science:US/Eastern
 Discovery Shed. (UK):Europe/London
 Discovery Shed:Europe/London
-Discovery turbo MAX (AU):Australia/Sydney
+Discovery turbo MAX (AU):Australia/Brisbane
 Discovery Turbo UK:Europe/London
 Discovery Turbo:US/Eastern
 Discovery World (CA):Canada/Eastern
 Discovery:US/Eastern
 Dish TV:US/Eastern
-DiSNEY CHANNEL (AU):Australia/Sydney
+DiSNEY CHANNEL (AU):Australia/Brisbane
 Disney Channel (Germany):Europe/Berlin
 DiSNEY CHANNEL (UK):Europe/London
 Disney Channel (US):US/Eastern
 Disney Channel:US/Eastern
 Disney Cinemagic:Europe/London
-DiSNEY Junior (AU):Australia/Sydney
+DiSNEY Junior (AU):Australia/Brisbane
 Disney Junior (CA):Canada/Eastern
 DiSNEY Junior (UK):Europe/London
 DiSNEY Junior (US):US/Eastern
@@ -607,12 +607,12 @@ DR3:Europe/Copenhagen
 Dragon TV:Asia/Shanghai
 DRAMA (UK):Europe/London
 DRAMAcube:Asia/Seoul
-DTD (AU):Australia/Sydney
+DTD (AU):Australia/Brisbane
 DTOUR (CA):Canada/Eastern
 DuMont Television Network:US/Eastern
 Duna TV:Europe/Budapest
 DUSK (CA):Canada/Eastern
-E! (AU):Australia/Sydney
+E! (AU):Australia/Brisbane
 E! (CA):Canada/Eastern
 E! (UK):Europe/London
 E!:US/Eastern
@@ -633,7 +633,7 @@ El Rey Network:US/Eastern
 El Rey:US/Eastern
 El Trece:America/Buenos_Aires
 element14:US/Eastern
-Eleven (AU):Australia/Sydney
+Eleven (AU):Australia/Brisbane
 Emmanuel TV (US):US/Eastern
 eNCA Africa (UK):Europe/London
 Encore Westerns East (US):US/Eastern
@@ -648,7 +648,7 @@ eqhd:Canada/Eastern
 ERT:Europe/Athens
 ES.TV (US):US/Eastern
 Esperanza TV (US):US/Eastern
-ESPN (AU):Australia/Sydney
+ESPN (AU):Australia/Brisbane
 ESPN (UK):Europe/London
 ESPN 2 (US):US/Eastern
 ESPN Asia:Asia/Hong_Kong
@@ -661,7 +661,7 @@ ESPN India:Asia/Kolkata
 ESPN Philippines:Asia/Manila
 ESPN Taiwan:Asia/Taipei
 ESPN:US/Eastern
-ESPN2 (AU):Australia/Sydney
+ESPN2 (AU):Australia/Brisbane
 ESPNEWS (US):US/Eastern
 ESPNU (US):US/Eastern
 Esquire Network:US/Eastern
@@ -674,20 +674,20 @@ ETV Gujarati:Asia/Kolkata
 ETV:Europe/Tallinn
 EUROCHANNEL (US):US/Eastern
 euronews (UK):Europe/London
-EUROSPORT (AU):Australia/Sydney
+EUROSPORT (AU):Australia/Brisbane
 Eurosport:Europe/London
 EuroWorld Sport (CA):Canada/Eastern
 Évasion:Canada/Eastern
 EWTN TV (UK):Europe/London
 Exitos TV (US):US/Eastern
-eXPO CHANNEL (AU):Australia/Sydney
-extra (AU):Australia/Sydney
+eXPO CHANNEL (AU):Australia/Brisbane
+extra (AU):Australia/Brisbane
 Extreme Sports Channel (UK):Europe/London
 Faith World TV (UK):Europe/London
 Family (CA):Canada/Eastern
 Family Friendly Entertainment (US):US/Eastern
 Family Gekijou (JP):Asia/Tokyo
-family MOVIES (AU):Australia/Sydney
+family MOVIES (AU):Australia/Brisbane
 Family:Canada/Eastern
 Fashion TV:Europe/Paris
 FEARnet:US/Eastern
@@ -704,7 +704,7 @@ Five:Europe/London
 FLAVA (UK):Europe/London
 FLIX (US):US/Eastern
 Flow TV (US):US/Eastern
-FMC (AU):Australia/Sydney
+FMC (AU):Australia/Brisbane
 Food Network (UK):Europe/London
 Food Network Canada:Canada/Eastern
 Food Network:US/Eastern
@@ -728,14 +728,14 @@ FOX 5 (US):US/Eastern
 Fox 8 (NL):Europe/Amsterdam
 Fox Business:US/Eastern
 Fox Channel:Europe/Berlin
-FOX CLASSICS (AU):Australia/Sydney
+FOX CLASSICS (AU):Australia/Brisbane
 FOX COLLEGE SPORTS ATLANTIC (US):US/Eastern
 FOX COLLEGE SPORTS CENTRAL (US):US/Eastern
 FOX COLLEGE SPORTS PACIFIC (US):US/Eastern
 Fox Crime:Europe/Rome
 FOX DEPORTES (US):US/Eastern
 Fox Family:US/Eastern
-FOX FOOTY (AU):Australia/Sydney
+FOX FOOTY (AU):Australia/Brisbane
 Fox Life (NL):Europe/Amsterdam
 Fox Life:Europe/Rome
 FOX News Channel (UK):Europe/London
@@ -745,9 +745,9 @@ FOX ROCHESTER (US):US/Eastern
 Fox Soccer Channel (CA):Canada/Eastern
 FOX SOCCER plus (US):US/Eastern
 FOX Sports 1:US/Eastern
-FOX SPORTS 2 (AU):Australia/Sydney
+FOX SPORTS 2 (AU):Australia/Brisbane
 FOX Sports 2:US/Eastern
-FOX SPORTS 3 (AU):Australia/Sydney
+FOX SPORTS 3 (AU):Australia/Brisbane
 FOX SPORTS ARIZONA (US):US/Eastern
 FOX SPORTS CAROLINAS (US):US/Eastern
 FOX SPORTS DETROIT (US):US/Eastern
@@ -756,7 +756,7 @@ FOX SPORTS INDIANA (US):US/Eastern
 FOX SPORTS KANSAS CITY (US):US/Eastern
 FOX SPORTS MIDWEST (US):US/Eastern
 FOX SPORTS NEW ORLEANS (US):US/Eastern
-FOX SPORTS NEWS (AU):Australia/Sydney
+FOX SPORTS NEWS (AU):Australia/Brisbane
 FOX SPORTS NORTH (US):US/Eastern
 FOX SPORTS OHIO (US):US/Eastern
 FOX SPORTS OKLAHOMA (US):US/Eastern
@@ -769,12 +769,12 @@ FOX SPORTS SUN SPORTS (US):US/Eastern
 FOX SPORTS TENNESSEE (US):US/Eastern
 FOX SPORTS WEST (US):US/Eastern
 FOX SPORTS WISCONSIN (US):US/Eastern
-FOX SPORTS:Australia/Sydney
+FOX SPORTS:Australia/Brisbane
 FOX Traveller:Asia/Kolkata
 FOX Türkiye:Europe/Istanbul
 Fox:Europe/Rome
 FOX:US/Eastern
-Fox8:Australia/Sydney
+Fox8:Australia/Brisbane
 France 2:Europe/Paris
 France 24 (UK):Europe/London
 France 3:Europe/Paris
@@ -787,14 +787,14 @@ Freeform:US/Eastern
 Frost Great Outdoors (US):US/Eastern
 FSTV (US):US/Eastern
 FTV:Asia/Taipei
-FUEL TV (AU):Australia/Sydney
+FUEL TV (AU):Australia/Brisbane
 Fuel TV:US/Eastern
 Fuji TV:Asia/Tokyo
 FUNimation Channel:US/Eastern
 funnyordie.com (US):US/Eastern
 fuse:US/Eastern
 Fusion (US):US/Eastern
-FX (AU):Australia/Sydney
+FX (AU):Australia/Brisbane
 FX (US):US/Eastern
 FX CANADA:Canada/Eastern
 FX MOVIE CHANNEL (US):US/Eastern
@@ -813,7 +813,7 @@ Gay Network (UK):Europe/London
 GayXChange (UK):Europe/London
 GBN (US):US/Eastern
 GEB AMERICA (US):US/Eastern
-Gem (AU):Australia/Sydney
+Gem (AU):Australia/Brisbane
 Gem Shopping Network (US):US/Eastern
 Gems TV (UK):Europe/London
 Gems TV Extra (UK):Europe/London
@@ -823,19 +823,19 @@ Geo TV:Asia/Karachi
 GEO UK (UK):Europe/London
 get TV (US):US/Eastern
 Global:Canada/Eastern
-Globo International (AU):Australia/Sydney
+Globo International (AU):Australia/Brisbane
 GLOBO TV International (US):US/Eastern
 Glory TV (UK):Europe/London
-GLV (AU):Australia/Sydney
+GLV (AU):Australia/Brisbane
 GMA:Asia/Manila
 GNT:America/Sao_Paulo
 GO (ZA):Africa/Johannesburg
-GO! (AU):Australia/Sydney
+GO! (AU):Australia/Brisbane
 God Channel (UK):Europe/London
 God's Learning Channel (US):US/Eastern
-GOLD (AU):Australia/Sydney
+GOLD (AU):Australia/Brisbane
 GOLD (UK):Europe/London
-GOLD2 (AU):Australia/Sydney
+GOLD2 (AU):Australia/Brisbane
 GOLF CHANNEL (US):US/Eastern
 Golf Channel:US/Eastern
 GOLTV (US):US/Eastern
@@ -845,13 +845,13 @@ gothamgirls.com (US):US/Eastern
 Great American Country:US/Eastern
 Greatest Hits (UK):Europe/London
 GSN:US/Eastern
-GTS (AU):Australia/Sydney
-GTV (AU):Australia/Sydney
+GTS (AU):Australia/Brisbane
+GTV (AU):Australia/Brisbane
 GTV:Asia/Taipei
 Guardian Television Network:US/Eastern
 Gulli:Europe/Paris
 gusto tv (CA):Canada/Eastern
-GWN7 (AU):Australia/Sydney
+GWN7 (AU):Australia/Brisbane
 H2 (CA):Canada/Eastern
 H2 (UK):Europe/London
 H2:US/Eastern
@@ -883,7 +883,7 @@ Hidayat TV (UK):Europe/London
 HIFI:Canada/Eastern
 High Street TV (UK):Europe/London
 Hír TV:Europe/Budapest
-HISTORY (AU):Australia/Sydney
+HISTORY (AU):Australia/Brisbane
 History (CA):Canada/Eastern
 HISTORY (UK):Europe/London
 History en Español (US):US/Eastern
@@ -905,7 +905,7 @@ HRT2 (HR):Europe/Zagreb
 HRTV (US):US/Eastern
 Hrvatska radiotelevizija:Europe/Zagreb
 HSN (US):US/Eastern
-HSV (AU):Australia/Sydney
+HSV (AU):Australia/Brisbane
 hTV (US):US/Eastern
 Hulu:US/Eastern
 HUMAN (NL):Europe/Amsterdam
@@ -914,7 +914,7 @@ IBC (PH):Asia/Manila
 iCHANNEL (CA):Canada/Eastern
 ICI Explora:Canada/Eastern
 ICI Tou.tv:Canada/Eastern
-ICTV (AU):Australia/Sydney
+ICTV (AU):Australia/Brisbane
 ICTV:Europe/Kiev
 Ideal Extra (UK):Europe/London
 Ideal World (UK):Europe/London
@@ -922,7 +922,7 @@ IFC (CA):Canada/Eastern
 IFC:US/Eastern
 IKON:Europe/Amsterdam
 Impact TV (US):US/Eastern
-Imparja (AU):Australia/Sydney
+Imparja (AU):Australia/Brisbane
 Indus Music:Asia/Karachi
 Indus News:Asia/Karachi
 Indus Vision:Asia/Karachi
@@ -940,7 +940,7 @@ ion LIFE (US):US/Eastern
 Ion Television:US/Eastern
 iQiyi:Asia/Shanghai
 IQRA TV (UK):Europe/London
-ishop tv (AU):Australia/Sydney
+ishop tv (AU):Australia/Brisbane
 Islam Channel (UK):Europe/London
 Italia 1:Europe/Rome
 iTunes (US):US/Eastern
@@ -1050,10 +1050,10 @@ Liberty Channel:US/Eastern
 Liberty TV:Europe/London
 Life Network (CA):Canada/Eastern
 Life OK:Asia/Kolkata
-LifeStyle FOOD:Australia/Sydney
-LifeStyle HOME:Australia/Sydney
-LifeStyle You. (AU):Australia/Sydney
-LifeStyle:Australia/Sydney
+LifeStyle FOOD:Australia/Brisbane
+LifeStyle HOME:Australia/Brisbane
+LifeStyle You. (AU):Australia/Brisbane
+LifeStyle:Australia/Brisbane
 LifeTalk Network (US):US/Eastern
 Lifetime (CA):Canada/Eastern
 lifetime real women (US):US/Eastern
@@ -1078,14 +1078,14 @@ LONDON LIVE (UK):Europe/London
 LONGHORN NETWORK (US):US/Eastern
 LOOKBOOK.nu (US):US/Eastern
 Loveworld TV (UK):Europe/London
-LRS (AU):Australia/Sydney
+LRS (AU):Australia/Brisbane
 Luxury TV (UK):Europe/London
 M1 (RU):Europe/Kaliningrad
-M10 TV (AU):Australia/Sydney
+M10 TV (AU):Australia/Brisbane
 M3 (CA):Canada/Eastern
 M6:Europe/Paris
 machinima.com (US):US/Eastern
-MAD World (AU):Australia/Sydney
+MAD World (AU):Australia/Brisbane
 Madani Channel (UK):Europe/London
 Made in Bristol (UK):Europe/London
 Made in Cardiff (UK):Europe/London
@@ -1094,14 +1094,14 @@ Made in Teesside (UK):Europe/London
 Made in Tyne & Wear (UK):Europe/London
 Magic:Europe/London
 Magyar Televízió:Europe/Budapest
-MAIN EVENT (AU):Australia/Sydney
+MAIN EVENT (AU):Australia/Brisbane
 maniaTV.com (US):US/Eastern
 Maori Television:Pacific/Auckland
 Marketplace (UK):Europe/London
-MASTERPIECE MOVIES (AU):Australia/Sydney
+MASTERPIECE MOVIES (AU):Australia/Brisbane
 MATV:Europe/London
 MavTV:US/Eastern
-Max (AU):Australia/Sydney
+Max (AU):Australia/Brisbane
 MAX (NL):Europe/Amsterdam
 MBC Drama:Asia/Seoul
 MBC Every 1:Asia/Seoul
@@ -1112,14 +1112,14 @@ MBN:Asia/Seoul
 MBS:Asia/Tokyo
 MCM:Europe/Paris
 MDR:Europe/Berlin
-MDV (AU):Australia/Sydney
+MDV (AU):Australia/Brisbane
 Mega Channel:Europe/Athens
 meGa tv (US):US/Eastern
 MeTV (US):US/Eastern
 Mexicanal (US):US/Eastern
 MGM (UK):Europe/London
 MGM HD (US):US/Eastern
-MGS (AU):Australia/Sydney
+MGS (AU):Australia/Brisbane
 MHz Worldview (US):US/Eastern
 mid-atlantic sports network (US):US/Eastern
 Military Channel:US/Eastern
@@ -1142,7 +1142,7 @@ More4:Europe/London
 Motors TV (UK):Europe/London
 Movie Central:Canada/Eastern
 MOVIE CHANNEL (US):US/Eastern
-Movie Extra (AU):Australia/Sydney
+Movie Extra (AU):Australia/Brisbane
 movieplex (US):US/Eastern
 Movies 24 (UK):Europe/London
 MOVIES! (US):US/Eastern
@@ -1153,8 +1153,8 @@ MSG+ (US):US/Eastern
 MSNBC:US/Eastern
 mstv entertainment (UK):Europe/London
 MTA Muslim TV (UK):Europe/London
-MTN (AU):Australia/Sydney
-MTV (AU):Australia/Sydney
+MTN (AU):Australia/Brisbane
+MTV (AU):Australia/Brisbane
 MTV (CA):Canada/Eastern
 MTV (FI):Europe/Helsinki
 MTV (UK):Europe/London
@@ -1162,9 +1162,9 @@ MTV (US):US/Eastern
 MTV Base:Europe/London
 MTV Brazil:America/Sao_Paulo
 MTV Central (DE):Europe/Berlin
-MTV CLASSIC (AU):Australia/Sydney
+MTV CLASSIC (AU):Australia/Brisbane
 MTV CLASSIC (UK):Europe/London
-MTV DANCE (AU):Australia/Sydney
+MTV DANCE (AU):Australia/Brisbane
 MTV Dance:Europe/London
 MTV HITS (UK):Europe/London
 MTV Hits:US/Eastern
@@ -1172,7 +1172,7 @@ MTV Italia:Europe/Rome
 MTV Jams (US):US/Eastern
 MTV LIVE (UK):Europe/London
 MTV Mandarin:Asia/Taipei
-MTV MUSIC (AU):Australia/Sydney
+MTV MUSIC (AU):Australia/Brisbane
 MTV MUSIC (UK):Europe/London
 MTV Nederland:Europe/Amsterdam
 MTV Poland:Europe/Warsaw
@@ -1209,14 +1209,14 @@ MYXTV (US):US/Eastern
 Nagoya Broadcasting Network (JP):Asia/Tokyo
 Nagoya Broadcasting Network:Asia/Tokyo
 NASA TELEVISION (US):US/Eastern
-NAT GEO PEOPLE (AU):Australia/Sydney
-NAT GEO WILD (AU):Australia/Sydney
+NAT GEO PEOPLE (AU):Australia/Brisbane
+NAT GEO WILD (AU):Australia/Brisbane
 NAT GEO WILD (UK):Europe/London
 Nat Geo Wild:US/Eastern
 National Geographic (UK):Europe/London
 National Geographic (US):US/Eastern
 National Geographic Adventure:US/Eastern
-NATIONAL GEOGRAPHIC CHANNEL (AU):Australia/Sydney
+NATIONAL GEOGRAPHIC CHANNEL (AU):Australia/Brisbane
 NATIONAL GEOGRAPHIC CHANNEL (CA):Canada/Eastern
 National Geographic Nederland-België:Europe/Amsterdam
 National Jewish Television (US):US/Eastern
@@ -1231,7 +1231,7 @@ NBC 5 Chicago (US):US/Eastern
 NBC:US/Eastern
 NBCSN (US):US/Eastern
 NBCSN:US/Eastern
-NBN (AU):Australia/Sydney
+NBN (AU):Australia/Brisbane
 NCRV:Europe/Amsterdam
 NDR:Europe/Berlin
 NDTV 24x7 (UK):Europe/London
@@ -1241,13 +1241,13 @@ NECN (US):US/Eastern
 NECO:Asia/Tokyo
 Nejat TV (US):US/Eastern
 Nelonen:Europe/Helsinki
-NEN (AU):Australia/Sydney
+NEN (AU):Australia/Brisbane
 neonalley.com (US):US/Eastern
 NET 5:Europe/Amsterdam
 Netflix (UK):Europe/London
 Netflix:US/Pacific
-Network Ten:Australia/Sydney
-NEW (AU):Australia/Sydney
+Network Ten:Australia/Brisbane
+NEW (AU):Australia/Brisbane
 New England Sports Network (US):US/Eastern
 New Greek TV (US):US/Eastern
 New Tang Dynasty TV:US/Eastern
@@ -1279,12 +1279,12 @@ NHNZ:Pacific/Auckland
 Nick (DE):Europe/Berlin
 Nick at Nite:US/Eastern
 Nick GAS:US/Eastern
-nick jr. (AU):Australia/Sydney
+nick jr. (AU):Australia/Brisbane
 nick jr. (UK):Europe/London
 nick jr. 2. (UK):Europe/London
 Nick Jr.:US/Eastern
 nick@nite (US):US/Eastern
-nickelodeon (AU):Australia/Sydney
+nickelodeon (AU):Australia/Brisbane
 nickelodeon (CA):Canada/Eastern
 Nickelodeon (DE):Europe/Berlin
 Nickelodeon (NL):Europe/Amsterdam
@@ -1294,8 +1294,8 @@ nickToons (UK):Europe/London
 NickToons Network:US/Eastern
 NickToons:US/Eastern
 Niconico:Asia/Tokyo
-Nine Network:Australia/Sydney
-NITV (AU):Australia/Sydney
+Nine Network:Australia/Brisbane
+NITV (AU):Australia/Brisbane
 Noggin:US/Eastern
 Nolife:Europe/Paris
 Nollywood Movies (UK):Europe/London
@@ -1315,10 +1315,10 @@ NRK Super:Europe/Oslo
 NRK1:Europe/Oslo
 NRK2:Europe/Oslo
 NRK3:Europe/Oslo
-NRN (AU):Australia/Sydney
+NRN (AU):Australia/Brisbane
 NT1:Europe/Paris
 NTA:Africa/Lagos
-NTD (AU):Australia/Sydney
+NTD (AU):Australia/Brisbane
 NTR:Europe/Amsterdam
 NTV (JP):Asia/Tokyo
 NTV (TW):Asia/Taipei
@@ -1328,7 +1328,7 @@ n-tv:Europe/Berlin
 NUVOtv (US):US/Eastern
 NVTV (UK):Europe/London
 NWCN (US):US/Eastern
-NWS (AU):Australia/Sydney
+NWS (AU):Australia/Brisbane
 NY1 (US):US/Eastern
 NYCTV life (US):US/Eastern
 Oasis HD:Canada/Eastern
@@ -1343,7 +1343,7 @@ Omni:Canada/Eastern
 Omroep Brabant:Europe/Amsterdam
 Omroep MAX:Europe/Amsterdam
 Omrop Fryslân (NL):Europe/Amsterdam
-one (AU):Australia/Sydney
+one (AU):Australia/Brisbane
 ONE (NZ):Pacific/Auckland
 One America NEWS NETWORK (US):US/Eastern
 One World Sport (US):US/Eastern
@@ -1361,7 +1361,7 @@ Outdoor Channel:US/Eastern
 Outside TELEVISION (US):US/Eastern
 OUTtv (CA):Canada/Eastern
 Ovation TV:US/Eastern
-ovationchannel.com.au:Australia/Sydney
+ovationchannel.com.au:Australia/Brisbane
 Overcomer Ministries (US):US/Eastern
 OWN (CA):Canada/Eastern
 OWN:US/Eastern
@@ -1415,14 +1415,14 @@ PowNed:Europe/Amsterdam
 Praise TV (UK):Europe/London
 Premier Sports (UK):Europe/London
 Premiere (DE):Europe/Berlin
-PREMIERE MOVIES (AU):Australia/Sydney
+PREMIERE MOVIES (AU):Australia/Brisbane
 Press TV:Asia/Tehran
 Price Drop (UK):Europe/London
 Prima Family (CZ):Europe/Prague
 Prima televize:Europe/Prague
 Prime (BE):Europe/Brussels
 Prime (NZ):Pacific/Auckland
-PRiME7 (AU):Australia/Sydney
+PRiME7 (AU):Australia/Brisbane
 Primetime (UK):Europe/London
 PRO TV:Europe/Bucharest
 propellor (UK):Europe/London
@@ -1433,7 +1433,7 @@ PTC Prime (UK):Europe/London
 PTC Punjabi (UK):Europe/London
 PTS HD:Asia/Taipei
 PTS:Asia/Taipei
-PTV (AU):Australia/Sydney
+PTV (AU):Australia/Brisbane
 PTV Bolan:Asia/Karachi
 PTV Global:US/Eastern
 PTV Home:Asia/Karachi
@@ -1445,8 +1445,8 @@ pursuit CHANNEL (US):US/Eastern
 Q (PH):Asia/Manila
 Q Television Network (US):US/Eastern
 Q TV:Europe/London
-QQQ (AU):Australia/Sydney
-QTQ (AU):Australia/Sydney
+QQQ (AU):Australia/Brisbane
+QTQ (AU):Australia/Brisbane
 QTV:Asia/Karachi
 qubo (US):US/Eastern
 QUEST (UK):Europe/London
@@ -1488,7 +1488,7 @@ Revelation TV:Europe/London
 Revision3:US/Eastern
 REVOLT (US):US/Eastern
 RFD-TV (US):US/Eastern
-RHC (AU):Australia/Sydney
+RHC (AU):Australia/Brisbane
 Ricavision channel 7 (ES):Europe/Madrid
 Ríkisútvarpið (IS):Atlantic/Reykjavik
 RIPE TV (US):US/Eastern
@@ -1501,7 +1501,7 @@ rocketjump.com (US):US/Eastern
 Rocks & Co. (UK):Europe/London
 ROCKS TV (US):US/Eastern
 ROGERS TV (CA):Canada/Eastern
-Romance MOVIES (AU):Australia/Sydney
+Romance MOVIES (AU):Australia/Brisbane
 Rooster Teeth:US/Eastern
 roosterteeth.com (US):US/Eastern
 ROOT SPORTS NORTHWEST (US):US/Eastern
@@ -1540,8 +1540,8 @@ RTP Madeira:Europe/Lisbon
 RTP N:Europe/Lisbon
 RTP1:Europe/Lisbon
 RTP2 (PT):Europe/Lisbon
-RTQ (AU):Australia/Sydney
-RTS (AU):Australia/Sydney
+RTQ (AU):Australia/Brisbane
+RTS (AU):Australia/Brisbane
 RTS Un:Europe/Zurich
 RTV Noord (NL):Europe/Amsterdam
 RTV Noord-Holland (NL):Europe/Amsterdam
@@ -1567,14 +1567,14 @@ Sahara ONE:Asia/Kolkata
 SAMAA TV (UK):Europe/London
 Sangat TV (UK):Europe/London
 Sanskar:Asia/Kolkata
-SAS (AU):Australia/Sydney
+SAS (AU):Australia/Brisbane
 Sat. 1 Comedy (DE):Europe/Berlin
 SAT.1:Europe/Berlin
-SBS (AU):Australia/Sydney
+SBS (AU):Australia/Brisbane
 SBS 6:Europe/Amsterdam
 SBS Plus:Asia/Seoul
 SBS:Asia/Seoul
-SBS2 (AU):Australia/Sydney
+SBS2 (AU):Australia/Brisbane
 SBT:America/Sao_Paulo
 SBTN (US):US/Eastern
 Schweizer Fernsehen:Europe/Zurich
@@ -1586,15 +1586,15 @@ SEC ESPN NETWORK (US):US/Eastern
 Semerkand TV:Europe/Istanbul
 Séries+:Canada/Eastern
 Servus TV:Europe/Vienna
-SES (AU):Australia/Sydney
+SES (AU):Australia/Brisbane
 SET Max (UK):Europe/London
 SET MAX:Asia/Kolkata
 SET Metro:Asia/Taipei
 SET TV:Asia/Taipei
 Setanta Ireland:Europe/Dublin
-SETANTA SPORTS (AU):Australia/Sydney
+SETANTA SPORTS (AU):Australia/Brisbane
 SETANTA SPORTS 1 (IE):Europe/Dublin
-Seven Network:Australia/Sydney
+Seven Network:Australia/Brisbane
 Shalom TV (US):US/Eastern
 SHAW TV (CA):Canada/Eastern
 Sheffield Live! (UK):Europe/London
@@ -1603,7 +1603,7 @@ SHO NEXT (US):US/Eastern
 sho.com (US):US/Eastern
 Shopping Channel (CA):Canada/Eastern
 Show TV:Europe/Istanbul
-showcase (AU):Australia/Sydney
+showcase (AU):Australia/Brisbane
 Showcase (CA):Canada/Eastern
 Showcase (UK):Europe/London
 SHOWCASE (US):US/Eastern
@@ -1627,19 +1627,19 @@ Sixx:Europe/Berlin
 Sjónvarpið (IS):Atlantic/Reykjavik
 Skai:Europe/Athens
 Skjár einn (IS):Atlantic/Reykjavik
-Skuff TV (AU):Australia/Sydney
+Skuff TV (AU):Australia/Brisbane
 sky 3D (UK):Europe/London
 sky ARTS 2 (UK):Europe/London
 Sky Arts:Europe/London
 Sky Atlantic HD (DE):Europe/Berlin
 Sky Atlantic:Europe/London
 Sky Box Office:Europe/London
-SKY Business TV (AU):Australia/Sydney
+SKY Business TV (AU):Australia/Brisbane
 Sky Cinema (IT):Europe/Rome
 Sky Cinema (UK):Europe/London
 Sky Cinema:Europe/London
 Sky Deutschland:Europe/Berlin
-SKY International (AU):Australia/Sydney
+SKY International (AU):Australia/Brisbane
 Sky Link TV (US):US/Eastern
 sky LIVING LOVES (UK):Europe/London
 Sky Living:Europe/London
@@ -1656,16 +1656,16 @@ sky MOVIES SELECT (UK):Europe/London
 sky MOVIES SHOWCASE (UK):Europe/London
 sky MOVIES SUPERHEROES (UK):Europe/London
 Sky Movies:Europe/London
-sky NEWS (AU):Australia/Sydney
+sky NEWS (AU):Australia/Brisbane
 sky NEWS ARABIA (UK):Europe/London
-sky NEWS BUSINESS (AU):Australia/Sydney
+sky NEWS BUSINESS (AU):Australia/Brisbane
 Sky News Ireland:Europe/Dublin
-sky NEWS WEATHER (AU):Australia/Sydney
+sky NEWS WEATHER (AU):Australia/Brisbane
 Sky News:Europe/London
 SKY PerfecTV!:Asia/Tokyo
-SKY Racing (AU):Australia/Sydney
+SKY Racing (AU):Australia/Brisbane
 sky Real Lives (UK):Europe/London
-SKY Ringside (AU):Australia/Sydney
+SKY Ringside (AU):Australia/Brisbane
 sky SPORTS 2 (UK):Europe/London
 sky SPORTS 3 (UK):Europe/London
 sky SPORTS 4 (UK):Europe/London
@@ -1686,10 +1686,10 @@ Smart Live Casino (UK):Europe/London
 Smash Hits:Europe/London
 Smile of a Child TV (US):US/Eastern
 Smithsonian Channel:US/Eastern
-Smooth (AU):Australia/Sydney
+Smooth (AU):Australia/Brisbane
 SNN LOCAL NEWS (US):US/Eastern
 SOAPnet:US/Eastern
-SoHo:Australia/Sydney
+SoHo:Australia/Brisbane
 SonBeam Channel (US):US/Eastern
 SonLife Broadcasting Channel (UK):Europe/London
 SonLife Broadcasting Network (US):US/Eastern
@@ -1705,10 +1705,10 @@ SONY MOVIE CHANNEL (US):US/Eastern
 Sony TV:Asia/Kolkata
 Soul of the South Television Network (US):US/Eastern
 Soundtrack Channel (US):US/Eastern
-Southern Cross TELEVISION (AU):Australia/Sydney
-Southern Cross Ten (AU):Australia/Sydney
+Southern Cross TELEVISION (AU):Australia/Brisbane
+Southern Cross Ten (AU):Australia/Brisbane
 Space:Canada/Eastern
-SPEED (AU):Australia/Sydney
+SPEED (AU):Australia/Brisbane
 Speed:US/Eastern
 Spektrum:Europe/Budapest
 Spiegel Geschichte (DE):Europe/Berlin
@@ -1730,7 +1730,7 @@ Sprout (US):US/Eastern
 spt tv (US):US/Eastern
 SR:Europe/Berlin
 SRF 1:Europe/Zurich
-Stan:Australia/Sydney
+Stan:Australia/Brisbane
 Star Channel (GR):Europe/Athens
 STAR Chinese Channel:Asia/Taipei
 Star Gold (UK):Europe/London
@@ -1761,17 +1761,17 @@ Starz!:US/Eastern
 Steel:Europe/Rome
 Stöð 2 (IS):Atlantic/Reykjavik
 Store (UK):Europe/London
-STQ (AU):Australia/Sydney
-STUDIO (AU):Australia/Sydney
+STQ (AU):Australia/Brisbane
+STUDIO (AU):Australia/Brisbane
 Studio 23:Asia/Manila
-STV (AU):Australia/Sydney
+STV (AU):Australia/Brisbane
 STV (TW):Asia/Taipei
 STV (UK):Europe/London
 STV Edinburgh (UK):Europe/London
 STV Glasgow (UK):Europe/London
 STV:Europe/London
-STW (AU):Australia/Sydney
-Style (AU):Australia/Sydney
+STW (AU):Australia/Brisbane
+Style (AU):Australia/Brisbane
 style. NETWORK (UK):Europe/London
 Style:US/Eastern
 Sub:Europe/Helsinki
@@ -1801,12 +1801,12 @@ SVTB:Europe/Stockholm
 Swarnawahini:Asia/Colombo
 Swearnet:Canada/Eastern
 SWR:Europe/Berlin
-Syfy (AU):Australia/Sydney
+Syfy (AU):Australia/Brisbane
 Syfy (UK):Europe/London
 SyFy Universal (DE):Europe/Berlin
 SyFy.com (US):US/Eastern
 Syfy:US/Eastern
-Syndicated (AU):Australia/Sydney
+Syndicated (AU):Australia/Brisbane
 Syndicated (JP):Asia/Tokyo
 Syndicated (UK):Europe/London
 Syndication (CA):Canada/Eastern
@@ -1823,10 +1823,10 @@ TBS (DE):Europe/Berlin
 TBS (JP):Asia/Tokyo
 TBS:US/Eastern
 TCM:Europe/London
-TCN (AU):Australia/Sydney
+TCN (AU):Australia/Brisbane
 TCT (US):US/Eastern
 TCT Family (US):US/Eastern
-TDT (AU):Australia/Sydney
+TDT (AU):Australia/Brisbane
 TeenNick:US/Eastern
 Télé (CA):Canada/Eastern
 Tele 5:Europe/Berlin
@@ -1888,7 +1888,7 @@ thebaytheseries.com (US):US/Eastern
 TheBlaze:US/Eastern
 this TV network (US):US/Eastern
 This TV:US/Eastern
-THRILLER MOVIES (AU):Australia/Sydney
+THRILLER MOVIES (AU):Australia/Brisbane
 Tien (NL):Europe/Amsterdam
 Time Warner Cable News Austin (US):US/Eastern
 Time Warner Cable News Buffalo (US):US/Eastern
@@ -1899,13 +1899,13 @@ Time Warner Cable News Rochester (US):US/Eastern
 TIME WARNER CABLE SPORTS CHANNEL (US):US/Eastern
 Tiny Pop (UK):Europe/London
 TITV:Asia/Taipei
-TLC (AU):Australia/Sydney
+TLC (AU):Australia/Brisbane
 TLC (UK):Europe/London
 TLC:US/Eastern
 TMC:Europe/Monaco
 TMF:Europe/Amsterdam
-TND (AU):Australia/Sydney
-TNQ (AU):Australia/Sydney
+TND (AU):Australia/Brisbane
+TNQ (AU):Australia/Brisbane
 TNT Serie:Europe/Berlin
 TNT:US/Eastern
 TNT (US):US/Eastern
@@ -1954,7 +1954,7 @@ TSR:Europe/Zurich
 TSR2 (CH):Europe/Zurich
 TTV:Asia/Taipei
 TUFF TV (US):US/Eastern
-TURNER CLASSIC MOVIES (AU):Australia/Sydney
+TURNER CLASSIC MOVIES (AU):Australia/Brisbane
 TURNER CLASSIC MOVIES (US):US/Eastern
 Turner South:US/Eastern
 TV 2 Charlie:Europe/Copenhagen
@@ -1975,7 +1975,7 @@ TV Cabo:Europe/Lisbon
 TV Chile:America/Santiago
 TV Cultura:America/Sao_Paulo
 TV Guide Channel:US/Eastern
-TV HiTS (AU):Australia/Sydney
+TV HiTS (AU):Australia/Brisbane
 TV Hokkaido (JP):Asia/Tokyo
 TV JAPAN (US):US/Eastern
 TV Kanagawa (JP):Asia/Tokyo
@@ -2013,7 +2013,7 @@ TV4 Komedi:Europe/Stockholm
 TV4 Plus:Europe/Stockholm
 TV4 Science Fiction:Europe/Stockholm
 TV4:Europe/Stockholm
-TV4ME (AU):Australia/Sydney
+TV4ME (AU):Australia/Brisbane
 TV5 Monde:Europe/Paris
 TV5MONDE Europe (UK):Europe/London
 TV6:Europe/Stockholm
@@ -2043,7 +2043,7 @@ TVI:Europe/Lisbon
 tvK (US):US/Eastern
 tvk:Asia/Tokyo
 TVM:Europe/Malta
-TVN (AU):Australia/Sydney
+TVN (AU):Australia/Brisbane
 TVN Style:Europe/Warsaw
 TVN Turbo:Europe/Warsaw
 tvN:Asia/Seoul
@@ -2056,17 +2056,17 @@ TVP SA:Europe/Warsaw
 TVP:Europe/Warsaw
 TVP1:Europe/Warsaw
 TVP2:Europe/Warsaw
-TVQ (AU):Australia/Sydney
-TVQ (Australia):Australia/Sydney
+TVQ (AU):Australia/Brisbane
+TVQ (Australia):Australia/Brisbane
 TVQ (Japan):Asia/Tokyo
 TVRI:Asia/Jakarta
 TVS China:Asia/Shanghai
-TVS Sydney:Australia/Sydney
-TVS:Australia/Sydney
-TVSN (AU):Australia/Sydney
-TVT (AU):Australia/Sydney
+TVS Sydney:Australia/Brisbane
+TVS:Australia/Brisbane
+TVSN (AU):Australia/Brisbane
+TVT (AU):Australia/Brisbane
 TVU music television (US):US/Eastern
-TVW (AU):Australia/Sydney
+TVW (AU):Australia/Brisbane
 TWC Deportes (US):US/Eastern
 TWC SportsNet (US):US/Eastern
 TWiT:US/Eastern
@@ -2088,7 +2088,7 @@ UMP Movies (UK):Europe/London
 UMP Stars (UK):Europe/London
 UND SPORTS NETWORK (US):US/Eastern
 unIMÁS East (US):US/Eastern
-UNIVERSAL CHANNEL (AU):Australia/Sydney
+UNIVERSAL CHANNEL (AU):Australia/Brisbane
 UNIVERSAL CHANNEL (UK):Europe/London
 Universal Channel:America/Sao_Paulo
 Universal Christian (US):US/Eastern
@@ -2098,7 +2098,7 @@ University of California Television (US):US/Eastern
 University of Washington Television (US):US/Eastern
 univision DEPORTES NETWORK (US):US/Eastern
 Univision:US/Eastern
-Unknown (AU):Australia/Sydney
+Unknown (AU):Australia/Brisbane
 Unknown (CA):Canada/Eastern
 Unknown (DE):Europe/Berlin
 Unknown (FR):Europe/Paris
@@ -2154,7 +2154,7 @@ VISION ZOOMER TELEVISION (CA):Canada/Eastern
 VIVA (DE):Europe/Berlin
 VIVA (PL):Europe/Warsaw
 VIVA (UK):Europe/London
-VK3RTV (AU):Australia/Sydney
+VK3RTV (AU):Australia/Brisbane
 Vme (US):US/Eastern
 VODO (US):US/Eastern
 Volksmusik TV:Europe/Berlin
@@ -2166,10 +2166,10 @@ Vrak.TV:Canada/Eastern
 VT4:Europe/Brussels
 VTM:Europe/Brussels
 vtmKzoom:Europe/Brussels
-VTV (AU):Australia/Sydney
+VTV (AU):Australia/Brisbane
 W Movies (CA):Canada/Eastern
 W Network:Canada/Eastern
-W:Australia/Sydney
+W:Australia/Brisbane
 W9:Europe/Paris
 Wah Lai Toi (MY):Asia/Kuala_Lumpur
 Wakker Nederland (NL):Europe/Amsterdam
@@ -2189,23 +2189,23 @@ Weather Network (CA):Canada/Eastern
 WeatherNation (US):US/Eastern
 weatherscan (US):US/Eastern
 wedding tv (UK):Europe/London
-West Digital Television (AU):Australia/Sydney
-westlink (AU):Australia/Sydney
+West Digital Television (AU):Australia/Brisbane
+westlink (AU):Australia/Brisbane
 WFRZ-LD (US):US/Eastern
 WGN (US):US/Eastern
 WGN America:US/Eastern
-WIN (AU):Australia/Sydney
-WIN Television (AU):Australia/Sydney
+WIN (AU):Australia/Brisbane
+WIN Television (AU):Australia/Brisbane
 WNL:Europe/Amsterdam
 Word Network (UK):Europe/London
 WORD Network (US):US/Eastern
 WORLD (US):US/Eastern
-WORLD MOVIES (AU):Australia/Sydney
+WORLD MOVIES (AU):Australia/Brisbane
 Worship (US):US/Eastern
-WOW (AU):Australia/Sydney
+WOW (AU):Australia/Brisbane
 WOWOW:Asia/Tokyo
 WPIX:US/Eastern
-WTV (AU):Australia/Sydney
+WTV (AU):Australia/Brisbane
 WWE Network (US):US/Eastern
 WWJ-TV Detroit (US):US/Eastern
 Xbox Video:US/Eastern
